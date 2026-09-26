@@ -1,6 +1,6 @@
 # Hi, I'm Assaf
 
-I like building things that think. I created [GPT Researcher](https://github.com/assafelovic/gpt-researcher), co-founded [Tavily](https://tavily.com), and now I'm building [Ora](https://ora.ai) to make the web usable by AI agents.
+I like building things that think. These days I'm working on [Ora](https://ora.ai), [GPT Researcher](https://github.com/assafelovic/gpt-researcher), [Tavily](https://tavily.com) and a few side projects.
 
 You can find me at [assafe.com](https://assafe.com), on [X](https://x.com/assaf_elovic) and on [LinkedIn](https://www.linkedin.com/in/assafe).
 
@@ -45,13 +45,12 @@ You can find me at [assafe.com](https://assafe.com), on [X](https://x.com/assaf_
 </tr>
 </table>
 
-## What I'm building now
+## What I'm working on
 
-Most of my work has been about making machines useful to people. [Ora](https://ora.ai) flips that around: it checks how well AI agents can find, read and use a website, and we share what we learn in the open. The code is at [github.com/ora](https://github.com/ora).
-
-- **[ax](https://github.com/ora/ax)** scores any site's agent readiness from your terminal or CI ([docs](https://ora.ai/docs#cli)).
-- **[webmcp](https://github.com/ora/webmcp)** is a plugin for Claude Code, Codex and Cursor that adds [WebMCP](https://github.com/webmachinelearning/webmcp) tools to your site and checks that they work.
-- **[research](https://github.com/ora/research)** has the datasets and scripts behind our agent readiness research.
+- **[Ora](https://ora.ai)** checks how well AI agents can find, read and use a website. Its open source tools are at [github.com/ora](https://github.com/ora), including [ax](https://github.com/ora/ax), which scores agent readiness from your terminal or CI.
+- **[GPT Researcher](https://github.com/assafelovic/gpt-researcher)** is the open source deep research agent I created. The [MCP server](https://github.com/assafelovic/gptr-mcp) lets Claude, Cursor and other agents use it.
+- **[Tavily](https://tavily.com)** is the search engine for AI agents that I co-founded. The [Python SDK](https://github.com/tavily-ai/tavily-python) is the easiest way to start using it.
+- **Side projects** include [skyll](https://github.com/assafelovic/skyll), which helps agents learn new skills, and [tovana](https://github.com/assafelovic/tovana), a memory layer for agents.
 
 ## GPT Researcher
 
