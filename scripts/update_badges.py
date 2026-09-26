@@ -8,7 +8,7 @@ BADGE = re.compile(
     r'(<img src="https://img\.shields\.io/badge/)([^-"]+)'
     r'(-[0-9A-F]{6}\?style=for-the-badge&logo=(?:github|git)&logoColor=white" alt="([\w.-]+/[\w.-]+) (stars|forks)"/>)'
 )
-PREFIX = {"stars": "%E2%98%85%20", "forks": "FORKS%20"}
+PREFIX = {"stars": "%E2%98%85%20", "forks": ""}
 FIELD = {"stars": "stargazers_count", "forks": "forks_count"}
 
 
