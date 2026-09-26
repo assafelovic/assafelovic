@@ -10,7 +10,7 @@ You can find me at [assafe.com](https://assafe.com), on [X](https://x.com/assaf_
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/assafelovic/gpt-researcher">gpt-researcher</a></h3>
-<p>An autonomous agent that researches any topic across the web or your own documents and writes a detailed report with citations, using any LLM.</p>
+<p>An autonomous agent that conducts deep research on any data using any LLM providers</p>
 <a href="https://github.com/assafelovic/gpt-researcher/stargazers"><img src="https://img.shields.io/badge/%E2%98%85%2029.6K-24292F?style=for-the-badge&logo=github&logoColor=white" alt="assafelovic/gpt-researcher stars"/></a>
 </td>
 <td width="50%" valign="top">
