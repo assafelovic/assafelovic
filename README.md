@@ -48,7 +48,7 @@ You can find me at [assafe.com](https://assafe.com), on [X](https://x.com/assaf_
 ## What I'm working on
 
 - **[Ora](https://ora.ai)** checks how well AI agents can find, read and use a website. Its open source tools are at [github.com/ora](https://github.com/ora), including [ax](https://github.com/ora/ax), which scores agent readiness from your terminal or CI.
-- **[GPT Researcher](https://github.com/assafelovic/gpt-researcher)** is the open source deep research agent I created. The [MCP server](https://github.com/assafelovic/gptr-mcp) lets Claude, Cursor and other agents use it.
+- **[GPT Researcher](https://github.com/assafelovic/gpt-researcher)** is the open source deep research agent I created back in 2023, and it still has an active community to this day. The [MCP server](https://github.com/assafelovic/gptr-mcp) lets Claude, Cursor and other agents use it.
 - **[Tavily](https://tavily.com)** is the search engine for AI agents that I co-founded. The [Python SDK](https://github.com/tavily-ai/tavily-python) is the easiest way to start using it.
 - **Side projects** include [skyll](https://github.com/assafelovic/skyll), which helps agents learn new skills, and [tovana](https://github.com/assafelovic/tovana), a memory layer for agents.
 
