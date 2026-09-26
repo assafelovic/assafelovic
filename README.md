@@ -108,7 +108,3 @@ Along the way I was granted a [patent](https://patents.justia.com/patent/2018008
 - **[Reichman University](https://www.runi.ac.il/en/)** (IDC Herzliya): BSc in Computer Science (2012 to 2015) and BA in Economics with honors (2011 to 2014), Dean's List in 2012. I also taught Python there as a lecturer from 2016 to 2018, after three years as a teaching assistant.
 - **[Tel Aviv University](https://english.tau.ac.il/)**: MBA in Technology, Innovation and Entrepreneurship (MoTIE), 2017 to 2018. I left the program to start Tiv.ai.
 - **Courses:** [Machine Learning (CS229)](https://www.coursera.org/account/accomplishments/certificate/E39WE3UDAVPV) from Stanford Online and [Startup School](https://www.startupschool.org/companies/tJOUZZ-FivxlLg) from Y Combinator, both in 2019.
-
-## Investing
-
-I'm a scout for [Sequoia](https://www.sequoiacap.com) and I angel invest in early stage AI startups, including [LangChain](https://www.langchain.com), [Anthropic](https://www.anthropic.com), Engram Labs, [Delphi](https://www.delphi.ai), PiLabs (acquired by Microsoft) and Runhouse (acquired by Anthropic). If you're working on something exciting, [email me](mailto:assaf.elovic@gmail.com).
