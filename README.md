@@ -11,42 +11,36 @@ You can find me at [assafe.com](https://assafe.com), on [X](https://x.com/assaf_
 <td width="50%" valign="top">
 <h3><a href="https://github.com/assafelovic/gpt-researcher">gpt-researcher</a></h3>
 <p>An autonomous agent that researches any topic across the web or your own documents and writes a detailed report with citations, using any LLM.</p>
-<img src="https://img.shields.io/badge/Deep%20research-8B5CF6?style=for-the-badge" alt="Deep research"/>
-<img src="https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=for-the-badge&label=%E2%98%85&labelColor=F59E0B&color=F59E0B" alt="GitHub stars"/>
+<img src="https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=for-the-badge&logo=github&logoColor=white&label=%E2%98%85&labelColor=24292F&color=24292F" alt="GitHub stars"/>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/ora/ax">ora/ax</a></h3>
 <p>Score any site's agent readiness from your terminal or CI. The open source command line tool for Ora.</p>
-<img src="https://img.shields.io/badge/Agent%20readiness-10B981?style=for-the-badge" alt="Agent readiness"/>
-<img src="https://img.shields.io/github/stars/ora/ax?style=for-the-badge&label=%E2%98%85&labelColor=F59E0B&color=F59E0B" alt="GitHub stars"/>
+<img src="https://img.shields.io/github/stars/ora/ax?style=for-the-badge&logo=github&logoColor=white&label=%E2%98%85&labelColor=24292F&color=24292F" alt="GitHub stars"/>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/assafelovic/gptr-mcp">gptr-mcp</a></h3>
 <p>An MCP server that gives Claude, Cursor and other MCP clients deep research, quick search and report writing tools.</p>
-<img src="https://img.shields.io/badge/MCP-F43F5E?style=for-the-badge" alt="MCP"/>
-<img src="https://img.shields.io/github/stars/assafelovic/gptr-mcp?style=for-the-badge&label=%E2%98%85&labelColor=F59E0B&color=F59E0B" alt="GitHub stars"/>
+<img src="https://img.shields.io/github/stars/assafelovic/gptr-mcp?style=for-the-badge&logo=github&logoColor=white&label=%E2%98%85&labelColor=24292F&color=24292F" alt="GitHub stars"/>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/tavily-ai/tavily-python">tavily-python</a></h3>
 <p>The official Python SDK for Tavily's search, extract, crawl, map and research APIs.</p>
-<img src="https://img.shields.io/badge/Search%20SDK-0EA5E9?style=for-the-badge" alt="Search SDK"/>
-<img src="https://img.shields.io/github/stars/tavily-ai/tavily-python?style=for-the-badge&label=%E2%98%85&labelColor=F59E0B&color=F59E0B" alt="GitHub stars"/>
+<img src="https://img.shields.io/github/stars/tavily-ai/tavily-python?style=for-the-badge&logo=github&logoColor=white&label=%E2%98%85&labelColor=24292F&color=24292F" alt="GitHub stars"/>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/assafelovic/skyll">skyll</a></h3>
 <p>Helps agents like OpenClaw find and learn new skills on their own.</p>
-<img src="https://img.shields.io/badge/Agent%20skills-F97316?style=for-the-badge" alt="Agent skills"/>
-<img src="https://img.shields.io/github/stars/assafelovic/skyll?style=for-the-badge&label=%E2%98%85&labelColor=F59E0B&color=F59E0B" alt="GitHub stars"/>
+<img src="https://img.shields.io/github/stars/assafelovic/skyll?style=for-the-badge&logo=github&logoColor=white&label=%E2%98%85&labelColor=24292F&color=24292F" alt="GitHub stars"/>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/assafelovic/tovana">tovana</a></h3>
 <p>A memory layer that helps AI agents give personal, context aware answers.</p>
-<img src="https://img.shields.io/badge/Memory-EC4899?style=for-the-badge" alt="Memory"/>
-<img src="https://img.shields.io/github/stars/assafelovic/tovana?style=for-the-badge&label=%E2%98%85&labelColor=F59E0B&color=F59E0B" alt="GitHub stars"/>
+<img src="https://img.shields.io/github/stars/assafelovic/tovana?style=for-the-badge&logo=github&logoColor=white&label=%E2%98%85&labelColor=24292F&color=24292F" alt="GitHub stars"/>
 </td>
 </tr>
 </table>
