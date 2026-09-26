@@ -1,6 +1,6 @@
 # Hi, I'm Assaf
 
-I like building things that think. I created [GPT Researcher](https://github.com/assafelovic/gpt-researcher), co-founded [Tavily](https://tavily.com), which [Nebius acquired](https://nebius.com/newsroom/nebius-announces-agreement-to-acquire-tavily-to-add-agentic-search-to-its-ai-cloud-platform) in 2026, and now I'm building [Ora](https://ora.ai) to make the web usable by AI agents.
+I like building things that think. I created [GPT Researcher](https://github.com/assafelovic/gpt-researcher), co-founded [Tavily](https://tavily.com), and now I'm building [Ora](https://ora.ai) to make the web usable by AI agents.
 
 You can find me at [assafe.com](https://assafe.com), on [X](https://x.com/assaf_elovic) and on [LinkedIn](https://www.linkedin.com/in/assafe).
 
