@@ -11,36 +11,48 @@ You can find me at [assafe.com](https://assafe.com), on [X](https://x.com/assaf_
 <td width="50%" valign="top">
 <h3><a href="https://github.com/assafelovic/gpt-researcher">gpt-researcher</a></h3>
 <p>An autonomous agent that conducts deep research on any data using any LLM providers</p>
-<a href="https://github.com/assafelovic/gpt-researcher/stargazers"><img src="https://img.shields.io/badge/%E2%98%85%2029.6K-24292F?style=for-the-badge&logo=github&logoColor=white" alt="assafelovic/gpt-researcher stars"/></a>
+<a href="https://github.com/assafelovic/gpt-researcher/stargazers"><img src="badges/assafelovic-gpt-researcher-stars.svg" alt="assafelovic/gpt-researcher stars"/></a>
+<a href="https://github.com/assafelovic/gpt-researcher/forks"><img src="badges/assafelovic-gpt-researcher-forks.svg" alt="assafelovic/gpt-researcher forks"/></a>
+<a href="https://github.com/assafelovic/gpt-researcher/commits"><img src="badges/assafelovic-gpt-researcher-updated.svg" alt="assafelovic/gpt-researcher last updated"/></a>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/ora/ax">ora/ax</a></h3>
 <p>Score any site's agent readiness from your terminal or CI. The open source command line tool for Ora.</p>
-<a href="https://github.com/ora/ax/stargazers"><img src="https://img.shields.io/badge/%E2%98%85%2027-24292F?style=for-the-badge&logo=github&logoColor=white" alt="ora/ax stars"/></a>
+<a href="https://github.com/ora/ax/stargazers"><img src="badges/ora-ax-stars.svg" alt="ora/ax stars"/></a>
+<a href="https://github.com/ora/ax/forks"><img src="badges/ora-ax-forks.svg" alt="ora/ax forks"/></a>
+<a href="https://github.com/ora/ax/commits"><img src="badges/ora-ax-updated.svg" alt="ora/ax last updated"/></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/assafelovic/gptr-mcp">gptr-mcp</a></h3>
 <p>An MCP server that gives Claude, Cursor and other MCP clients deep research, quick search and report writing tools.</p>
-<a href="https://github.com/assafelovic/gptr-mcp/stargazers"><img src="https://img.shields.io/badge/%E2%98%85%20370-24292F?style=for-the-badge&logo=github&logoColor=white" alt="assafelovic/gptr-mcp stars"/></a>
+<a href="https://github.com/assafelovic/gptr-mcp/stargazers"><img src="badges/assafelovic-gptr-mcp-stars.svg" alt="assafelovic/gptr-mcp stars"/></a>
+<a href="https://github.com/assafelovic/gptr-mcp/forks"><img src="badges/assafelovic-gptr-mcp-forks.svg" alt="assafelovic/gptr-mcp forks"/></a>
+<a href="https://github.com/assafelovic/gptr-mcp/commits"><img src="badges/assafelovic-gptr-mcp-updated.svg" alt="assafelovic/gptr-mcp last updated"/></a>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/tavily-ai/tavily-python">tavily-python</a></h3>
 <p>The official Python SDK for Tavily's search, extract, crawl, map and research APIs.</p>
-<a href="https://github.com/tavily-ai/tavily-python/stargazers"><img src="https://img.shields.io/badge/%E2%98%85%201.4K-24292F?style=for-the-badge&logo=github&logoColor=white" alt="tavily-ai/tavily-python stars"/></a>
+<a href="https://github.com/tavily-ai/tavily-python/stargazers"><img src="badges/tavily-ai-tavily-python-stars.svg" alt="tavily-ai/tavily-python stars"/></a>
+<a href="https://github.com/tavily-ai/tavily-python/forks"><img src="badges/tavily-ai-tavily-python-forks.svg" alt="tavily-ai/tavily-python forks"/></a>
+<a href="https://github.com/tavily-ai/tavily-python/commits"><img src="badges/tavily-ai-tavily-python-updated.svg" alt="tavily-ai/tavily-python last updated"/></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/assafelovic/skyll">skyll</a></h3>
 <p>Helps agents like OpenClaw find and learn new skills on their own.</p>
-<a href="https://github.com/assafelovic/skyll/stargazers"><img src="https://img.shields.io/badge/%E2%98%85%20247-24292F?style=for-the-badge&logo=github&logoColor=white" alt="assafelovic/skyll stars"/></a>
+<a href="https://github.com/assafelovic/skyll/stargazers"><img src="badges/assafelovic-skyll-stars.svg" alt="assafelovic/skyll stars"/></a>
+<a href="https://github.com/assafelovic/skyll/forks"><img src="badges/assafelovic-skyll-forks.svg" alt="assafelovic/skyll forks"/></a>
+<a href="https://github.com/assafelovic/skyll/commits"><img src="badges/assafelovic-skyll-updated.svg" alt="assafelovic/skyll last updated"/></a>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/assafelovic/tovana">tovana</a></h3>
 <p>A memory layer that helps AI agents give personal, context aware answers.</p>
-<a href="https://github.com/assafelovic/tovana/stargazers"><img src="https://img.shields.io/badge/%E2%98%85%2039-24292F?style=for-the-badge&logo=github&logoColor=white" alt="assafelovic/tovana stars"/></a>
+<a href="https://github.com/assafelovic/tovana/stargazers"><img src="badges/assafelovic-tovana-stars.svg" alt="assafelovic/tovana stars"/></a>
+<a href="https://github.com/assafelovic/tovana/forks"><img src="badges/assafelovic-tovana-forks.svg" alt="assafelovic/tovana forks"/></a>
+<a href="https://github.com/assafelovic/tovana/commits"><img src="badges/assafelovic-tovana-updated.svg" alt="assafelovic/tovana last updated"/></a>
 </td>
 </tr>
 </table>
