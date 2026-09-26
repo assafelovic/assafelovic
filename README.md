@@ -88,23 +88,3 @@ It also shows up in these papers:
 7. [LLM4DESIGN: An Automated Multi-Modal System for Architectural and Environmental Design](https://arxiv.org/abs/2407.12025), Chen et al., July 2024
 8. [Differential Privacy of Cross-Attention with Provable Guarantee](https://arxiv.org/abs/2407.14717), Gu et al., July 2024
 9. [Exploring Large Language Model based Intelligent Agents: Definitions, Methods, and Prospects](https://arxiv.org/abs/2401.03428), Cheng et al., January 2024
-
-## Experience
-
-| When | What |
-| --- | --- |
-| 2026 to now | Building [Ora](https://ora.ai) |
-| 2024 to 2026 | Co-founded [Tavily](https://tavily.com), the search engine for AI agents. We raised a [$20M Series A](https://www.linkedin.com/posts/assafe_tavily-raises-20m-series-a-to-build-the-activity-7358893129866821634-ztZi) in 2025, and [Nebius acquired Tavily](https://nebius.com/newsroom/nebius-announces-agreement-to-acquire-tavily-to-add-agentic-search-to-its-ai-cloud-platform) in 2026 |
-| 2024 to 2026 | Head of AI at [monday.com](https://monday.com), where we launched [monday sidekick](https://www.linkedin.com/posts/assafe_today-were-excited-to-launch-monday-sidekick-activity-7353059388657401857-Je_a) |
-| 2023 to now | Created and maintain [GPT Researcher](https://github.com/assafelovic/gpt-researcher) |
-| 2021 to 2024 | VP R&D at [Wix](https://www.wix.com), where I built Wix's first AI agent |
-| 2017 to 2020 | Co-founder and CTO of Tiv.ai, an AI assistant on WhatsApp used by over 5 million people. We went through [Y Combinator Startup School](https://www.startupschool.org/companies/tJOUZZ-FivxlLg) |
-| 2015 to 2018 | Lead AI engineer at Servicefriend, building chatbots that handled millions of requests a day. [Facebook acquired Servicefriend](https://techcrunch.com/2019/09/21/facebook-servicefriend/) in 2019 |
-
-Along the way I was granted a [patent](https://patents.justia.com/patent/20180089163) for a real time conversational agent (US 2018/0089163).
-
-## Education
-
-- **[Reichman University](https://www.runi.ac.il/en/)** (IDC Herzliya): BSc in Computer Science (2012 to 2015) and BA in Economics with honors (2011 to 2014), Dean's List in 2012. I also taught Python there as a lecturer from 2016 to 2018, after three years as a teaching assistant.
-- **[Tel Aviv University](https://english.tau.ac.il/)**: MBA in Technology, Innovation and Entrepreneurship (MoTIE), 2017 to 2018. I left the program to start Tiv.ai.
-- **Courses:** [Machine Learning (CS229)](https://www.coursera.org/account/accomplishments/certificate/E39WE3UDAVPV) from Stanford Online and [Startup School](https://www.startupschool.org/companies/tJOUZZ-FivxlLg) from Y Combinator, both in 2019.
