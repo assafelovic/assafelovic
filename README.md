@@ -25,7 +25,7 @@ You can find me at [assafe.com](https://assafe.com), on [X](https://x.com/assaf_
 <td width="50%" valign="top">
 <h3><a href="https://github.com/assafelovic/gptr-mcp">gptr-mcp</a></h3>
 <p>An MCP server that gives Claude, Cursor and other MCP clients deep research, quick search and report writing tools.</p>
-<a href="https://github.com/assafelovic/gptr-mcp/stargazers"><img src="https://img.shields.io/badge/%E2%98%85%20371-24292F?style=for-the-badge&logo=github&logoColor=white" alt="assafelovic/gptr-mcp stars"/></a>
+<a href="https://github.com/assafelovic/gptr-mcp/stargazers"><img src="https://img.shields.io/badge/%E2%98%85%20370-24292F?style=for-the-badge&logo=github&logoColor=white" alt="assafelovic/gptr-mcp stars"/></a>
 <a href="https://github.com/assafelovic/gptr-mcp/forks"><img src="https://img.shields.io/badge/65-6E7781?style=for-the-badge&logo=git&logoColor=white" alt="assafelovic/gptr-mcp forks"/></a>
 </td>
 <td width="50%" valign="top">
@@ -39,13 +39,13 @@ You can find me at [assafe.com](https://assafe.com), on [X](https://x.com/assaf_
 <td width="50%" valign="top">
 <h3><a href="https://github.com/assafelovic/skyll">skyll</a></h3>
 <p>Helps agents like OpenClaw find and learn new skills on their own.</p>
-<a href="https://github.com/assafelovic/skyll/stargazers"><img src="https://img.shields.io/badge/%E2%98%85%20247-24292F?style=for-the-badge&logo=github&logoColor=white" alt="assafelovic/skyll stars"/></a>
+<a href="https://github.com/assafelovic/skyll/stargazers"><img src="https://img.shields.io/badge/%E2%98%85%20246-24292F?style=for-the-badge&logo=github&logoColor=white" alt="assafelovic/skyll stars"/></a>
 <a href="https://github.com/assafelovic/skyll/forks"><img src="https://img.shields.io/badge/32-6E7781?style=for-the-badge&logo=git&logoColor=white" alt="assafelovic/skyll forks"/></a>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/assafelovic/tovana">tovana</a></h3>
 <p>A memory layer that helps AI agents give personal, context aware answers.</p>
-<a href="https://github.com/assafelovic/tovana/stargazers"><img src="https://img.shields.io/badge/%E2%98%85%2039-24292F?style=for-the-badge&logo=github&logoColor=white" alt="assafelovic/tovana stars"/></a>
+<a href="https://github.com/assafelovic/tovana/stargazers"><img src="https://img.shields.io/badge/%E2%98%85%2038-24292F?style=for-the-badge&logo=github&logoColor=white" alt="assafelovic/tovana stars"/></a>
 <a href="https://github.com/assafelovic/tovana/forks"><img src="https://img.shields.io/badge/14-6E7781?style=for-the-badge&logo=git&logoColor=white" alt="assafelovic/tovana forks"/></a>
 </td>
 </tr>
