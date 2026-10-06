@@ -39,7 +39,7 @@ You can find me at [assafe.com](https://assafe.com), on [X](https://x.com/assaf_
 <td width="50%" valign="top">
 <h3><a href="https://github.com/assafelovic/skyll">skyll</a></h3>
 <p>Helps agents like OpenClaw find and learn new skills on their own.</p>
-<a href="https://github.com/assafelovic/skyll/stargazers"><img src="https://img.shields.io/badge/%E2%98%85%20246-24292F?style=for-the-badge&logo=github&logoColor=white" alt="assafelovic/skyll stars"/></a>
+<a href="https://github.com/assafelovic/skyll/stargazers"><img src="https://img.shields.io/badge/%E2%98%85%20247-24292F?style=for-the-badge&logo=github&logoColor=white" alt="assafelovic/skyll stars"/></a>
 <a href="https://github.com/assafelovic/skyll/forks"><img src="https://img.shields.io/badge/32-6E7781?style=for-the-badge&logo=git&logoColor=white" alt="assafelovic/skyll forks"/></a>
 </td>
 <td width="50%" valign="top">
