@@ -25,7 +25,7 @@ You can find me at [assafe.com](https://assafe.com), on [X](https://x.com/assaf_
 <td width="50%" valign="top">
 <h3><a href="https://github.com/assafelovic/gptr-mcp">gptr-mcp</a></h3>
 <p>An MCP server that gives Claude, Cursor and other MCP clients deep research, quick search and report writing tools.</p>
-<a href="https://github.com/assafelovic/gptr-mcp/stargazers"><img src="https://img.shields.io/badge/%E2%98%85%20376-24292F?style=for-the-badge&logo=github&logoColor=white" alt="assafelovic/gptr-mcp stars"/></a>
+<a href="https://github.com/assafelovic/gptr-mcp/stargazers"><img src="https://img.shields.io/badge/%E2%98%85%20377-24292F?style=for-the-badge&logo=github&logoColor=white" alt="assafelovic/gptr-mcp stars"/></a>
 <a href="https://github.com/assafelovic/gptr-mcp/forks"><img src="https://img.shields.io/badge/68-6E7781?style=for-the-badge&logo=git&logoColor=white" alt="assafelovic/gptr-mcp forks"/></a>
 </td>
 <td width="50%" valign="top">
@@ -39,7 +39,7 @@ You can find me at [assafe.com](https://assafe.com), on [X](https://x.com/assaf_
 <td width="50%" valign="top">
 <h3><a href="https://github.com/assafelovic/skyll">skyll</a></h3>
 <p>Helps agents like OpenClaw find and learn new skills on their own.</p>
-<a href="https://github.com/assafelovic/skyll/stargazers"><img src="https://img.shields.io/badge/%E2%98%85%20251-24292F?style=for-the-badge&logo=github&logoColor=white" alt="assafelovic/skyll stars"/></a>
+<a href="https://github.com/assafelovic/skyll/stargazers"><img src="https://img.shields.io/badge/%E2%98%85%20250-24292F?style=for-the-badge&logo=github&logoColor=white" alt="assafelovic/skyll stars"/></a>
 <a href="https://github.com/assafelovic/skyll/forks"><img src="https://img.shields.io/badge/35-6E7781?style=for-the-badge&logo=git&logoColor=white" alt="assafelovic/skyll forks"/></a>
 </td>
 <td width="50%" valign="top">
