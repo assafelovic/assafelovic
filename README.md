@@ -12,7 +12,7 @@ You can find me at [assafe.com](https://assafe.com), on [X](https://x.com/assaf_
 <h3><a href="https://github.com/assafelovic/gpt-researcher">gpt-researcher</a></h3>
 <p>An autonomous agent that conducts deep research on any data using any LLM providers</p>
 <a href="https://github.com/assafelovic/gpt-researcher/stargazers"><img src="https://img.shields.io/badge/%E2%98%85%2030.4K-24292F?style=for-the-badge&logo=github&logoColor=white" alt="assafelovic/gpt-researcher stars"/></a>
-<a href="https://github.com/assafelovic/gpt-researcher/forks"><img src="https://img.shields.io/badge/4.1K-6E7781?style=for-the-badge&logo=git&logoColor=white" alt="assafelovic/gpt-researcher forks"/></a>
+<a href="https://github.com/assafelovic/gpt-researcher/forks"><img src="https://img.shields.io/badge/4.2K-6E7781?style=for-the-badge&logo=git&logoColor=white" alt="assafelovic/gpt-researcher forks"/></a>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/ora/ax">ora/ax</a></h3>
