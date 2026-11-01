@@ -17,7 +17,7 @@ You can find me at [assafe.com](https://assafe.com), on [X](https://x.com/assaf_
 <td width="50%" valign="top">
 <h3><a href="https://github.com/ora/ax">ora/ax</a></h3>
 <p>Score any site's agent readiness from your terminal or CI. The open source command line tool for Ora.</p>
-<a href="https://github.com/ora/ax/stargazers"><img src="https://img.shields.io/badge/%E2%98%85%2031-24292F?style=for-the-badge&logo=github&logoColor=white" alt="ora/ax stars"/></a>
+<a href="https://github.com/ora/ax/stargazers"><img src="https://img.shields.io/badge/%E2%98%85%2032-24292F?style=for-the-badge&logo=github&logoColor=white" alt="ora/ax stars"/></a>
 <a href="https://github.com/ora/ax/forks"><img src="https://img.shields.io/badge/4-6E7781?style=for-the-badge&logo=git&logoColor=white" alt="ora/ax forks"/></a>
 </td>
 </tr>
@@ -32,7 +32,7 @@ You can find me at [assafe.com](https://assafe.com), on [X](https://x.com/assaf_
 <h3><a href="https://github.com/tavily-ai/tavily-python">tavily-python</a></h3>
 <p>The official Python SDK for Tavily's search, extract, crawl, map and research APIs.</p>
 <a href="https://github.com/tavily-ai/tavily-python/stargazers"><img src="https://img.shields.io/badge/%E2%98%85%201.4K-24292F?style=for-the-badge&logo=github&logoColor=white" alt="tavily-ai/tavily-python stars"/></a>
-<a href="https://github.com/tavily-ai/tavily-python/forks"><img src="https://img.shields.io/badge/189-6E7781?style=for-the-badge&logo=git&logoColor=white" alt="tavily-ai/tavily-python forks"/></a>
+<a href="https://github.com/tavily-ai/tavily-python/forks"><img src="https://img.shields.io/badge/190-6E7781?style=for-the-badge&logo=git&logoColor=white" alt="tavily-ai/tavily-python forks"/></a>
 </td>
 </tr>
 <tr>
