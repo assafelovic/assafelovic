@@ -26,13 +26,13 @@ You can find me at [assafe.com](https://assafe.com), on [X](https://x.com/assaf_
 <h3><a href="https://github.com/assafelovic/gptr-mcp">gptr-mcp</a></h3>
 <p>An MCP server that gives Claude, Cursor and other MCP clients deep research, quick search and report writing tools.</p>
 <a href="https://github.com/assafelovic/gptr-mcp/stargazers"><img src="https://img.shields.io/badge/%E2%98%85%20380-24292F?style=for-the-badge&logo=github&logoColor=white" alt="assafelovic/gptr-mcp stars"/></a>
-<a href="https://github.com/assafelovic/gptr-mcp/forks"><img src="https://img.shields.io/badge/70-24292F?style=for-the-badge&logo=git&logoColor=white" alt="assafelovic/gptr-mcp forks"/></a>
+<a href="https://github.com/assafelovic/gptr-mcp/forks"><img src="https://img.shields.io/badge/69-24292F?style=for-the-badge&logo=git&logoColor=white" alt="assafelovic/gptr-mcp forks"/></a>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/tavily-ai/tavily-python">tavily-python</a></h3>
 <p>The official Python SDK for Tavily's search, extract, crawl, map and research APIs.</p>
 <a href="https://github.com/tavily-ai/tavily-python/stargazers"><img src="https://img.shields.io/badge/%E2%98%85%201.4K-24292F?style=for-the-badge&logo=github&logoColor=white" alt="tavily-ai/tavily-python stars"/></a>
-<a href="https://github.com/tavily-ai/tavily-python/forks"><img src="https://img.shields.io/badge/190-24292F?style=for-the-badge&logo=git&logoColor=white" alt="tavily-ai/tavily-python forks"/></a>
+<a href="https://github.com/tavily-ai/tavily-python/forks"><img src="https://img.shields.io/badge/191-24292F?style=for-the-badge&logo=git&logoColor=white" alt="tavily-ai/tavily-python forks"/></a>
 </td>
 </tr>
 <tr>
